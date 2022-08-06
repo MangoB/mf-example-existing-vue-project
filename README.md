@@ -1,5 +1,5 @@
 # mf-example-existing-vue-project
-This is a boilerplate for my article (about Vue, micro-frontends, and Single-SPA) in this [article](https://medium.com/@a.sinlapakorn/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-micro-frontends-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-single-spa-part-1-beginner-level-6644bf407d93).
+This is a boilerplate for my article (about Vue, micro-frontends, and Single-SPA) in this [article](https://medium.com/@a.sinlapakorn/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-micro-frontend-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-single-spa-part-2-intermediate-level-72b7622e0540).
 
 ## Setup
 To run this project, install it locally:
@@ -19,4 +19,5 @@ This application is a boilerplate about an existing app for use registered into 
 #### [mf-root](https://github.com/MangoB/mf-root)
 This application is the root of a micro-frontends project, in the article will register "mf-example-existing-vue-project" in this web application.
 
-* I will update article url soon
+#### [mf-example-existing-vue-project-2](https://github.com/MangoB/mf-example-existing-vue-project-2)
+This application is the conclusion of "mf-example-existing-vue-project" in the article.
